@@ -1,0 +1,5780 @@
+fileFormatVersion: 2
+guid: 2e1ddbee4f1c50642aa3aab11ef4a0ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7910307475496438674
+    second: Lovepik_com-401764598-ink_0
+  - first:
+      213: 1241465243979051783
+    second: Lovepik_com-401764598-ink_1
+  - first:
+      213: 1532625766009237311
+    second: Lovepik_com-401764598-ink_2
+  - first:
+      213: -4056267750154414576
+    second: Lovepik_com-401764598-ink_3
+  - first:
+      213: 4786396531485830676
+    second: Lovepik_com-401764598-ink_4
+  - first:
+      213: 5770032128867443895
+    second: Lovepik_com-401764598-ink_5
+  - first:
+      213: 5897833251517350144
+    second: Lovepik_com-401764598-ink_6
+  - first:
+      213: 5573095484257188141
+    second: Lovepik_com-401764598-ink_7
+  - first:
+      213: -6590870659147774824
+    second: Lovepik_com-401764598-ink_8
+  - first:
+      213: 1364724461091208913
+    second: Lovepik_com-401764598-ink_9
+  - first:
+      213: -908182484725377653
+    second: Lovepik_com-401764598-ink_10
+  - first:
+      213: -8250678731744361834
+    second: Lovepik_com-401764598-ink_11
+  - first:
+      213: 1309411339057877732
+    second: Lovepik_com-401764598-ink_12
+  - first:
+      213: -53202521583853778
+    second: Lovepik_com-401764598-ink_13
+  - first:
+      213: -3306539135400226635
+    second: Lovepik_com-401764598-ink_14
+  - first:
+      213: 3802532702351210546
+    second: Lovepik_com-401764598-ink_15
+  - first:
+      213: 1267386100287885866
+    second: Lovepik_com-401764598-ink_16
+  - first:
+      213: -8085927455649537309
+    second: Lovepik_com-401764598-ink_17
+  - first:
+      213: -7035781604599975030
+    second: Lovepik_com-401764598-ink_18
+  - first:
+      213: -3990392248039829417
+    second: Lovepik_com-401764598-ink_19
+  - first:
+      213: 7118083005124926927
+    second: Lovepik_com-401764598-ink_20
+  - first:
+      213: -615531358943990451
+    second: Lovepik_com-401764598-ink_21
+  - first:
+      213: -5964115942363049187
+    second: Lovepik_com-401764598-ink_22
+  - first:
+      213: -3504764580162200011
+    second: Lovepik_com-401764598-ink_23
+  - first:
+      213: -8697725442288168091
+    second: Lovepik_com-401764598-ink_24
+  - first:
+      213: -5398682783727521844
+    second: Lovepik_com-401764598-ink_25
+  - first:
+      213: 3811448764681348344
+    second: Lovepik_com-401764598-ink_26
+  - first:
+      213: 4121924089111393943
+    second: Lovepik_com-401764598-ink_27
+  - first:
+      213: 7460256133648944588
+    second: Lovepik_com-401764598-ink_28
+  - first:
+      213: -2149518001358286587
+    second: Lovepik_com-401764598-ink_29
+  - first:
+      213: -4590561434057790495
+    second: Lovepik_com-401764598-ink_30
+  - first:
+      213: -6145637342172625830
+    second: Lovepik_com-401764598-ink_31
+  - first:
+      213: 287132407257694183
+    second: Lovepik_com-401764598-ink_32
+  - first:
+      213: -413998618606254078
+    second: Lovepik_com-401764598-ink_33
+  - first:
+      213: 7263626869002534643
+    second: Lovepik_com-401764598-ink_34
+  - first:
+      213: -7563944009598031358
+    second: Lovepik_com-401764598-ink_35
+  - first:
+      213: 3790639389465197166
+    second: Lovepik_com-401764598-ink_36
+  - first:
+      213: -1819488360332081603
+    second: Lovepik_com-401764598-ink_37
+  - first:
+      213: 8902373632035884557
+    second: Lovepik_com-401764598-ink_38
+  - first:
+      213: -4101212502039174539
+    second: Lovepik_com-401764598-ink_39
+  - first:
+      213: -3769910449177719846
+    second: Lovepik_com-401764598-ink_40
+  - first:
+      213: 7133083108379867064
+    second: Lovepik_com-401764598-ink_41
+  - first:
+      213: -544220864830976975
+    second: Lovepik_com-401764598-ink_42
+  - first:
+      213: -3460876383587594213
+    second: Lovepik_com-401764598-ink_43
+  - first:
+      213: -3716072062904856212
+    second: Lovepik_com-401764598-ink_44
+  - first:
+      213: -7363762895620826726
+    second: Lovepik_com-401764598-ink_45
+  - first:
+      213: -6426181297804009871
+    second: Lovepik_com-401764598-ink_46
+  - first:
+      213: -5172159299524066846
+    second: Lovepik_com-401764598-ink_47
+  - first:
+      213: -7407197033725714713
+    second: Lovepik_com-401764598-ink_48
+  - first:
+      213: -5183231446982767537
+    second: Lovepik_com-401764598-ink_49
+  - first:
+      213: 6395736797804465172
+    second: Lovepik_com-401764598-ink_50
+  - first:
+      213: 5737385382444571874
+    second: Lovepik_com-401764598-ink_51
+  - first:
+      213: -3908858692300030049
+    second: Lovepik_com-401764598-ink_52
+  - first:
+      213: 2315510035148421507
+    second: Lovepik_com-401764598-ink_53
+  - first:
+      213: 7825772946891650778
+    second: Lovepik_com-401764598-ink_54
+  - first:
+      213: -5246462281670727390
+    second: Lovepik_com-401764598-ink_55
+  - first:
+      213: 8633211136731564490
+    second: Lovepik_com-401764598-ink_56
+  - first:
+      213: -6260127062060458935
+    second: Lovepik_com-401764598-ink_57
+  - first:
+      213: -2031517221720144110
+    second: Lovepik_com-401764598-ink_58
+  - first:
+      213: -8450323433806373344
+    second: Lovepik_com-401764598-ink_59
+  - first:
+      213: 879915951914542010
+    second: Lovepik_com-401764598-ink_60
+  - first:
+      213: 1135927720484628458
+    second: Lovepik_com-401764598-ink_61
+  - first:
+      213: -8140144237333167369
+    second: Lovepik_com-401764598-ink_62
+  - first:
+      213: -4197051665966469195
+    second: Lovepik_com-401764598-ink_63
+  - first:
+      213: 548160584098954889
+    second: Lovepik_com-401764598-ink_64
+  - first:
+      213: -7762375582590071538
+    second: Lovepik_com-401764598-ink_65
+  - first:
+      213: 2201986509850404445
+    second: Lovepik_com-401764598-ink_66
+  - first:
+      213: 3987974992101034865
+    second: Lovepik_com-401764598-ink_67
+  - first:
+      213: -2289320031947679009
+    second: Lovepik_com-401764598-ink_68
+  - first:
+      213: 3916869173186080818
+    second: Lovepik_com-401764598-ink_69
+  - first:
+      213: 2102483892391298800
+    second: Lovepik_com-401764598-ink_70
+  - first:
+      213: 576997234032518449
+    second: Lovepik_com-401764598-ink_71
+  - first:
+      213: -1735910854018829943
+    second: Lovepik_com-401764598-ink_72
+  - first:
+      213: -6914083071229365930
+    second: Lovepik_com-401764598-ink_73
+  - first:
+      213: -1764583403863255550
+    second: Lovepik_com-401764598-ink_74
+  - first:
+      213: 7267993875660504469
+    second: Lovepik_com-401764598-ink_75
+  - first:
+      213: -3492208733103921237
+    second: Lovepik_com-401764598-ink_76
+  - first:
+      213: -177537197834647575
+    second: Lovepik_com-401764598-ink_77
+  - first:
+      213: -6497986005131647766
+    second: Lovepik_com-401764598-ink_78
+  - first:
+      213: 5538691141063446563
+    second: Lovepik_com-401764598-ink_79
+  - first:
+      213: 2595692343633685391
+    second: Lovepik_com-401764598-ink_80
+  - first:
+      213: -1148165563571737887
+    second: Lovepik_com-401764598-ink_81
+  - first:
+      213: 5524696458778074608
+    second: Lovepik_com-401764598-ink_82
+  - first:
+      213: 6593566778779260452
+    second: Lovepik_com-401764598-ink_83
+  - first:
+      213: -3078625831177787008
+    second: Lovepik_com-401764598-ink_84
+  - first:
+      213: -4909876646442336569
+    second: Lovepik_com-401764598-ink_85
+  - first:
+      213: 2114276683065209634
+    second: Lovepik_com-401764598-ink_86
+  - first:
+      213: -6833783850341649335
+    second: Lovepik_com-401764598-ink_87
+  - first:
+      213: -2766463711199138784
+    second: Lovepik_com-401764598-ink_88
+  - first:
+      213: 5005172880409272928
+    second: Lovepik_com-401764598-ink_89
+  - first:
+      213: -7245544892880711885
+    second: Lovepik_com-401764598-ink_90
+  - first:
+      213: -4041316566985538161
+    second: Lovepik_com-401764598-ink_91
+  - first:
+      213: 6752200075157613371
+    second: Lovepik_com-401764598-ink_92
+  - first:
+      213: -6869661051173112408
+    second: Lovepik_com-401764598-ink_93
+  - first:
+      213: 6652236112013048266
+    second: Lovepik_com-401764598-ink_94
+  - first:
+      213: 7333866679361222479
+    second: Lovepik_com-401764598-ink_95
+  - first:
+      213: 4521759472142419314
+    second: Lovepik_com-401764598-ink_96
+  - first:
+      213: 5727716322269084760
+    second: Lovepik_com-401764598-ink_97
+  - first:
+      213: -4394843476831727625
+    second: Lovepik_com-401764598-ink_98
+  - first:
+      213: -1863257006494665728
+    second: Lovepik_com-401764598-ink_99
+  - first:
+      213: -6634291390414773057
+    second: Lovepik_com-401764598-ink_100
+  - first:
+      213: -1377013957683151588
+    second: Lovepik_com-401764598-ink_101
+  - first:
+      213: 3814596682772879382
+    second: Lovepik_com-401764598-ink_102
+  - first:
+      213: -104954371801449339
+    second: Lovepik_com-401764598-ink_103
+  - first:
+      213: 4501515379144301530
+    second: Lovepik_com-401764598-ink_104
+  - first:
+      213: 1308989888164203907
+    second: Lovepik_com-401764598-ink_105
+  - first:
+      213: 4680066283472320595
+    second: Lovepik_com-401764598-ink_106
+  - first:
+      213: 1330826798279450283
+    second: Lovepik_com-401764598-ink_107
+  - first:
+      213: -6679280424545522429
+    second: Lovepik_com-401764598-ink_108
+  - first:
+      213: -8872876085082278035
+    second: Lovepik_com-401764598-ink_109
+  - first:
+      213: -2968885508457754619
+    second: Lovepik_com-401764598-ink_110
+  - first:
+      213: 4638912905060659182
+    second: Lovepik_com-401764598-ink_111
+  - first:
+      213: -1511742016854301852
+    second: Lovepik_com-401764598-ink_112
+  - first:
+      213: 3460316469047180104
+    second: Lovepik_com-401764598-ink_113
+  - first:
+      213: -7602542887920156712
+    second: Lovepik_com-401764598-ink_114
+  - first:
+      213: 5426933653080300549
+    second: Lovepik_com-401764598-ink_115
+  - first:
+      213: -7776168065559351261
+    second: Lovepik_com-401764598-ink_116
+  - first:
+      213: 5138667318739465976
+    second: Lovepik_com-401764598-ink_117
+  - first:
+      213: -6171760124130065706
+    second: Lovepik_com-401764598-ink_118
+  - first:
+      213: -4906075342857347356
+    second: Lovepik_com-401764598-ink_119
+  - first:
+      213: 930523381608526801
+    second: Lovepik_com-401764598-ink_120
+  - first:
+      213: 3112557079619947384
+    second: Lovepik_com-401764598-ink_121
+  - first:
+      213: -2374424242779057961
+    second: Lovepik_com-401764598-ink_122
+  - first:
+      213: -6954939406502018478
+    second: Lovepik_com-401764598-ink_123
+  - first:
+      213: 3381222564941014356
+    second: Lovepik_com-401764598-ink_124
+  - first:
+      213: 3285356582816151765
+    second: Lovepik_com-401764598-ink_125
+  - first:
+      213: 2410983405307932616
+    second: Lovepik_com-401764598-ink_126
+  - first:
+      213: 8362935172616429872
+    second: Lovepik_com-401764598-ink_127
+  - first:
+      213: -4850323159198747276
+    second: Lovepik_com-401764598-ink_128
+  - first:
+      213: -2858710370868693688
+    second: Lovepik_com-401764598-ink_129
+  - first:
+      213: -6163189030581030097
+    second: Lovepik_com-401764598-ink_130
+  - first:
+      213: 4530672436724179985
+    second: Lovepik_com-401764598-ink_131
+  - first:
+      213: 286165436026796095
+    second: Lovepik_com-401764598-ink_132
+  - first:
+      213: 7200061587688867641
+    second: Lovepik_com-401764598-ink_133
+  - first:
+      213: 8609977373586710046
+    second: Lovepik_com-401764598-ink_134
+  - first:
+      213: 3512228882521949709
+    second: Lovepik_com-401764598-ink_135
+  - first:
+      213: 4868311677920970370
+    second: Lovepik_com-401764598-ink_136
+  - first:
+      213: -1630576885451660911
+    second: Lovepik_com-401764598-ink_137
+  - first:
+      213: -4016142392847795984
+    second: Lovepik_com-401764598-ink_138
+  - first:
+      213: 9119379336520305502
+    second: Lovepik_com-401764598-ink_139
+  - first:
+      213: 5778978803856724765
+    second: Lovepik_com-401764598-ink_140
+  - first:
+      213: 4828219564293078991
+    second: Lovepik_com-401764598-ink_141
+  - first:
+      213: -4456255501590488774
+    second: Lovepik_com-401764598-ink_142
+  - first:
+      213: 6626892756881402917
+    second: Lovepik_com-401764598-ink_143
+  - first:
+      213: 8052116050898510846
+    second: Lovepik_com-401764598-ink_144
+  - first:
+      213: 3030085189660821845
+    second: Lovepik_com-401764598-ink_145
+  - first:
+      213: -8660959478576735070
+    second: Lovepik_com-401764598-ink_146
+  - first:
+      213: 6427210594364436607
+    second: Lovepik_com-401764598-ink_147
+  - first:
+      213: -4048721564149114961
+    second: Lovepik_com-401764598-ink_148
+  - first:
+      213: -7404537196628639574
+    second: Lovepik_com-401764598-ink_149
+  - first:
+      213: 6076618866201741466
+    second: Lovepik_com-401764598-ink_150
+  - first:
+      213: -2870070146429634175
+    second: Lovepik_com-401764598-ink_151
+  - first:
+      213: -6374779324629849460
+    second: Lovepik_com-401764598-ink_152
+  - first:
+      213: -8390842521499997989
+    second: Lovepik_com-401764598-ink_153
+  - first:
+      213: 1040289739451864356
+    second: Lovepik_com-401764598-ink_154
+  - first:
+      213: 6971828348549174543
+    second: Lovepik_com-401764598-ink_155
+  - first:
+      213: 8165459866959051277
+    second: Lovepik_com-401764598-ink_156
+  - first:
+      213: 3871238283615199229
+    second: Lovepik_com-401764598-ink_157
+  - first:
+      213: 7323191956873863633
+    second: Lovepik_com-401764598-ink_158
+  - first:
+      213: -5754903810038392162
+    second: Lovepik_com-401764598-ink_159
+  - first:
+      213: -8037182579634173637
+    second: Lovepik_com-401764598-ink_160
+  - first:
+      213: 3631684694676837912
+    second: Lovepik_com-401764598-ink_161
+  - first:
+      213: -7919632819020371158
+    second: Lovepik_com-401764598-ink_162
+  - first:
+      213: 3857584413267377914
+    second: Lovepik_com-401764598-ink_163
+  - first:
+      213: -1516150520918858542
+    second: Lovepik_com-401764598-ink_164
+  - first:
+      213: -3181134066134650376
+    second: Lovepik_com-401764598-ink_165
+  - first:
+      213: 4013929027559514216
+    second: Lovepik_com-401764598-ink_166
+  - first:
+      213: 3795175616897638790
+    second: Lovepik_com-401764598-ink_167
+  - first:
+      213: 4774599736010597784
+    second: Lovepik_com-401764598-ink_168
+  - first:
+      213: -2939361580672097639
+    second: Lovepik_com-401764598-ink_169
+  - first:
+      213: 120046095619734835
+    second: Lovepik_com-401764598-ink_170
+  - first:
+      213: 6264196889761513260
+    second: Lovepik_com-401764598-ink_171
+  - first:
+      213: -4671250261924540621
+    second: Lovepik_com-401764598-ink_172
+  - first:
+      213: 5831524276104207556
+    second: Lovepik_com-401764598-ink_173
+  - first:
+      213: 4566776968331776013
+    second: Lovepik_com-401764598-ink_174
+  - first:
+      213: 3699995109543671416
+    second: Lovepik_com-401764598-ink_175
+  - first:
+      213: 3923119622634474101
+    second: Lovepik_com-401764598-ink_176
+  - first:
+      213: -4898407554918916249
+    second: Lovepik_com-401764598-ink_177
+  - first:
+      213: -1873930686030356837
+    second: Lovepik_com-401764598-ink_178
+  - first:
+      213: 7628805162868875766
+    second: Lovepik_com-401764598-ink_179
+  - first:
+      213: 2828086009653500496
+    second: Lovepik_com-401764598-ink_180
+  - first:
+      213: 3201293504515774840
+    second: Lovepik_com-401764598-ink_181
+  - first:
+      213: -783302942652346336
+    second: Lovepik_com-401764598-ink_182
+  - first:
+      213: -2086100250416038138
+    second: Lovepik_com-401764598-ink_183
+  - first:
+      213: 8707767804114521574
+    second: Lovepik_com-401764598-ink_184
+  - first:
+      213: -3821458239037677917
+    second: Lovepik_com-401764598-ink_185
+  - first:
+      213: -1007759032934925872
+    second: Lovepik_com-401764598-ink_186
+  - first:
+      213: -1717218248325854948
+    second: Lovepik_com-401764598-ink_187
+  - first:
+      213: -4396655236826680442
+    second: Lovepik_com-401764598-ink_188
+  - first:
+      213: 8574643063728740551
+    second: Lovepik_com-401764598-ink_189
+  - first:
+      213: -5630534092150325344
+    second: Lovepik_com-401764598-ink_190
+  - first:
+      213: -8364560761884787966
+    second: Lovepik_com-401764598-ink_191
+  - first:
+      213: -9168857731731039778
+    second: Lovepik_com-401764598-ink_192
+  - first:
+      213: -6646727301298288786
+    second: Lovepik_com-401764598-ink_193
+  - first:
+      213: 7700017147910598790
+    second: Lovepik_com-401764598-ink_194
+  - first:
+      213: -1024871751681200249
+    second: Lovepik_com-401764598-ink_195
+  - first:
+      213: 1729184023337732378
+    second: Lovepik_com-401764598-ink_196
+  - first:
+      213: 4359706084249901751
+    second: Lovepik_com-401764598-ink_197
+  - first:
+      213: 8241295326599871466
+    second: Lovepik_com-401764598-ink_198
+  - first:
+      213: 5297661542653608050
+    second: Lovepik_com-401764598-ink_199
+  - first:
+      213: -5273957425909819217
+    second: Lovepik_com-401764598-ink_200
+  - first:
+      213: -3857713561836969469
+    second: Lovepik_com-401764598-ink_201
+  - first:
+      213: 5948396084506366364
+    second: Lovepik_com-401764598-ink_202
+  - first:
+      213: -3122043463016307187
+    second: Lovepik_com-401764598-ink_203
+  - first:
+      213: 568501226127620662
+    second: Lovepik_com-401764598-ink_204
+  - first:
+      213: 2382085642512458157
+    second: Lovepik_com-401764598-ink_205
+  - first:
+      213: 2418304234488146260
+    second: Lovepik_com-401764598-ink_206
+  - first:
+      213: -7526688703076059093
+    second: Lovepik_com-401764598-ink_207
+  - first:
+      213: -7323801321207440945
+    second: Lovepik_com-401764598-ink_208
+  - first:
+      213: 8068805359158495619
+    second: Lovepik_com-401764598-ink_209
+  - first:
+      213: 7479509236813107554
+    second: Lovepik_com-401764598-ink_210
+  - first:
+      213: -111415084775563632
+    second: Lovepik_com-401764598-ink_211
+  - first:
+      213: 6502627126463956368
+    second: Lovepik_com-401764598-ink_212
+  - first:
+      213: 7299136606122393404
+    second: Lovepik_com-401764598-ink_213
+  - first:
+      213: 554133187029006941
+    second: Lovepik_com-401764598-ink_214
+  - first:
+      213: 1786408611155831314
+    second: Lovepik_com-401764598-ink_215
+  - first:
+      213: -19051227701683852
+    second: Lovepik_com-401764598-ink_216
+  - first:
+      213: -8525656820819564176
+    second: Lovepik_com-401764598-ink_217
+  - first:
+      213: -7815467557866629041
+    second: Lovepik_com-401764598-ink_218
+  - first:
+      213: -338454631603065379
+    second: Lovepik_com-401764598-ink_219
+  - first:
+      213: -8295310997619005565
+    second: Lovepik_com-401764598-ink_220
+  - first:
+      213: -688143308416763806
+    second: Lovepik_com-401764598-ink_221
+  - first:
+      213: -1531311579348614264
+    second: Lovepik_com-401764598-ink_222
+  - first:
+      213: 2875335970991102952
+    second: Lovepik_com-401764598-ink_223
+  - first:
+      213: 5058408021423121774
+    second: Lovepik_com-401764598-ink_224
+  - first:
+      213: -4670550882696316623
+    second: Lovepik_com-401764598-ink_225
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2282
+        width: 144
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64faeaf241f83290800000000000000
+      internalID: -7910307475496438674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_1
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2227
+        width: 148
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7037d54df029a3110800000000000000
+      internalID: 1241465243979051783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_2
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 2182
+        width: 173
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f6794930bf44510800000000000000
+      internalID: 1532625766009237311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_3
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2269
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165c26e8fd35b7c0800000000000000
+      internalID: -4056267750154414576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_4
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2275
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eef553942bc6240800000000000000
+      internalID: 4786396531485830676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_5
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 2220
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b42cb776a5431050800000000000000
+      internalID: 5770032128867443895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_6
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 2274
+        width: 91
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001cd2d181059d150800000000000000
+      internalID: 5897833251517350144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_7
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 2268
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29bb7eb0dc975d40800000000000000
+      internalID: 5573095484257188141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2234
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894c3f03e068884a0800000000000000
+      internalID: -6590870659147774824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_9
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 2184
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb0afaaa970f210800000000000000
+      internalID: 1364724461091208913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_10
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 2258
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8556b687dc7563f0800000000000000
+      internalID: -908182484725377653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_11
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 2262
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692c18e4863bf7d80800000000000000
+      internalID: -8250678731744361834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_12
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 2202
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d961eca6fb2210800000000000000
+      internalID: 1309411339057877732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_13
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2221
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fd6d7a69cf24ff0800000000000000
+      internalID: -53202521583853778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_14
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2218
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0da86dc20dc12d0800000000000000
+      internalID: -3306539135400226635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_15
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2221
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238337a985f45c430800000000000000
+      internalID: 3802532702351210546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_16
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2189
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a225dec71f8a69110800000000000000
+      internalID: 1267386100287885866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_17
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2224
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26e66f1d309cf80800000000000000
+      internalID: -8085927455649537309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_18
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2219
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83379468e1eb5e90800000000000000
+      internalID: -7035781604599975030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_19
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2210
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7501d1574674f98c0800000000000000
+      internalID: -3990392248039829417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_20
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2195
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd573aa7c288c260800000000000000
+      internalID: 7118083005124926927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_21
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 2192
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da7028d713577f0800000000000000
+      internalID: -615531358943990451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_22
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2197
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13d43056243b3da0800000000000000
+      internalID: -5964115942363049187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_23
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2198
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9f02fe239c5fc0800000000000000
+      internalID: -3504764580162200011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_24
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2156
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5635982fac87b4780800000000000000
+      internalID: -8697725442288168091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_25
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2204
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf67e49c960415b0800000000000000
+      internalID: -5398682783727521844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_26
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 2201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ee62257cf4e430800000000000000
+      internalID: 3811448764681348344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_27
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 2211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7963c92ce14043930800000000000000
+      internalID: 4121924089111393943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_28
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2158
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd039b6d67288760800000000000000
+      internalID: 7460256133648944588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_29
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2157
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5015bb234c06b22e0800000000000000
+      internalID: -2149518001358286587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_30
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2178
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba06392bc0b40c0800000000000000
+      internalID: -4590561434057790495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_31
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2192
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54cc65f56f46baa0800000000000000
+      internalID: -6145637342172625830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_32
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 2190
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eff81237691cf300800000000000000
+      internalID: 287132407257694183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_33
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2185
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208c878237e214af0800000000000000
+      internalID: -413998618606254078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_34
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 2191
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fef0eb27269dc460800000000000000
+      internalID: 7263626869002534643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_35
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2180
+        width: 91
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a27feaff8770790800000000000000
+      internalID: -7563944009598031358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_36
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 2197
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a3da8e07e0b9430800000000000000
+      internalID: 3790639389465197166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_37
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2165
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36c271f9f0efb6e0800000000000000
+      internalID: -1819488360332081603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_38
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 2171
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e8d4bc6a59b8b70800000000000000
+      internalID: 8902373632035884557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_39
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 2162
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572609365f09517c0800000000000000
+      internalID: -4101212502039174539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_40
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2184
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb8ab99b669eabc0800000000000000
+      internalID: -3769910449177719846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_41
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2160
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7325c5b4dcdf260800000000000000
+      internalID: 7133083108379867064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_42
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2188
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cc460c10a8278f0800000000000000
+      internalID: -544220864830976975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_43
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1019b0044f78ffc0800000000000000
+      internalID: -3460876383587594213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_44
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 2186
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c619dcab52cdd6cc0800000000000000
+      internalID: -3716072062904856212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_45
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 2177
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99915c49a8aec990800000000000000
+      internalID: -7363762895620826726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_46
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2146
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e1222382e91d6a0800000000000000
+      internalID: -6426181297804009871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_47
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e18226358cc838b0800000000000000
+      internalID: -5172159299524066846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_48
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 2182
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee9377fa89543990800000000000000
+      internalID: -7407197033725714713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_49
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c45fdf5767118b0800000000000000
+      internalID: -5183231446982767537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_50
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2184
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c87064bb832c850800000000000000
+      internalID: 6395736797804465172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_51
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2173
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec902c7b994f9f40800000000000000
+      internalID: 5737385382444571874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_52
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 2185
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f3248bab1f0c9c0800000000000000
+      internalID: -3908858692300030049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_53
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2178
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389bfdedb18522020800000000000000
+      internalID: 2315510035148421507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_54
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6b650580bba9c60800000000000000
+      internalID: 7825772946891650778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 3488
+        height: 2179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229e78d0a52d037b0800000000000000
+      internalID: -5246462281670727390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_56
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2171
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c4d3c9c35fc770800000000000000
+      internalID: 8633211136731564490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_57
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2180
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c9319ca9f8f19a0800000000000000
+      internalID: -6260127062060458935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_58
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 2140
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217484ca9d99ec3e0800000000000000
+      internalID: -2031517221720144110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_59
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2169
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02edfc2db9b6aba80800000000000000
+      internalID: -8450323433806373344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_60
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2178
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e01275e6163c00800000000000000
+      internalID: 879915951914542010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_61
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2159
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7610e4e30a3cf00800000000000000
+      internalID: 1135927720484628458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_62
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2143
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f24059c1f5680f80800000000000000
+      internalID: -8140144237333167369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_63
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 2167
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf6b1a2fb311c5c0800000000000000
+      internalID: -4197051665966469195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_64
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 2175
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eb61f95257b9700800000000000000
+      internalID: 548160584098954889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_65
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 2171
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d8d82d880864490800000000000000
+      internalID: -7762375582590071538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_66
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56e5d760170f8e10800000000000000
+      internalID: 2201986509850404445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_67
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 2169
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc2594022285730800000000000000
+      internalID: 3987974992101034865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_68
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 2174
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda929e6f83ba30e0800000000000000
+      internalID: -2289320031947679009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_69
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 2171
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2303f63b2c38b5630800000000000000
+      internalID: 3916869173186080818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_70
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 2171
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6c6ffe5f58d2d10800000000000000
+      internalID: 2102483892391298800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_71
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 2170
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13524e26de7e10800800000000000000
+      internalID: 576997234032518449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_72
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9817678864ec8e7e0800000000000000
+      internalID: -1735910854018829943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_73
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2137
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651f4df341e3c00a0800000000000000
+      internalID: -6914083071229365930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_74
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 2148
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065e2c4eb0f287e0800000000000000
+      internalID: -1764583403863255550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_75
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2163
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d75742ce91dd460800000000000000
+      internalID: 7267993875660504469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_76
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 2169
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e2d5e8ae298fc0800000000000000
+      internalID: -3492208733103921237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_77
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7c5a4fbd2498df0800000000000000
+      internalID: -177537197834647575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_78
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 2170
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42ba8f72482d5a0800000000000000
+      internalID: -6497986005131647766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_79
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2171
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32090bf5f326ddc40800000000000000
+      internalID: 5538691141063446563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_80
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bac781f60c50420800000000000000
+      internalID: 2595692343633685391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_81
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2148
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea68ffc085e010f0800000000000000
+      internalID: -1148165563571737887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_82
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 2149
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd535d782aabac40800000000000000
+      internalID: 5524696458778074608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_83
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 2154
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42654f31d0e018b50800000000000000
+      internalID: 6593566778779260452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_84
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2156
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896e482e168645d0800000000000000
+      internalID: -3078625831177787008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_85
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2149
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce71d5243d9cdbb0800000000000000
+      internalID: -4909876646442336569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_86
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 2114
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2233efaf07b675d10800000000000000
+      internalID: 2114276683065209634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_87
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2153
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b5988bc58921a0800000000000000
+      internalID: -6833783850341649335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_88
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2150
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c67f979eb8b99d0800000000000000
+      internalID: -2766463711199138784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_89
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2157
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062a6385732f57540800000000000000
+      internalID: 5005172880409272928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_90
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 2149
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f03b7fe47a27b90800000000000000
+      internalID: -7245544892880711885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_91
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 2147
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f850def7efb5ae7c0800000000000000
+      internalID: -4041316566985538161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_92
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2155
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba2249132a4bd50800000000000000
+      internalID: 6752200075157613371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_93
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2152
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a57d75cbaf0aa0a0800000000000000
+      internalID: -6869661051173112408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_94
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2155
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac93092bf7d715c50800000000000000
+      internalID: 6652236112013048266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_95
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2155
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47366d63e027c560800000000000000
+      internalID: 7333866679361222479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_96
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2155
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2758ec8584480ce30800000000000000
+      internalID: 4521759472142419314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_97
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2157
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c3e0bf5afec7f40800000000000000
+      internalID: 5727716322269084760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_98
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2147
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff800884216203c0800000000000000
+      internalID: -4394843476831727625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_99
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2139
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004b0a2ef916426e0800000000000000
+      internalID: -1863257006494665728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_100
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2161
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb425e161234ee3a0800000000000000
+      internalID: -6634291390414773057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_101
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2150
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d7a89e91dd3ece0800000000000000
+      internalID: -1377013957683151588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_102
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 2151
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6189f0ee87b20f430800000000000000
+      internalID: 3814596682772879382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_103
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 2145
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c762f0e802b8ef0800000000000000
+      internalID: -104954371801449339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_104
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2163
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb9ad42368987e30800000000000000
+      internalID: 4501515379144301530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_105
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 2159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d0b923e577a2210800000000000000
+      internalID: 1308989888164203907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_106
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 2149
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35876af1d7fe2f040800000000000000
+      internalID: 4680066283472320595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_107
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 2156
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae54090ceb087210800000000000000
+      internalID: 1330826798279450283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_108
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 2155
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d6ebb97dd6e43a0800000000000000
+      internalID: -6679280424545522429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_109
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 2156
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67bc9c06363dd480800000000000000
+      internalID: -8872876085082278035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_110
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 2157
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50012912c566cc6d0800000000000000
+      internalID: -2968885508457754619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_111
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2144
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefad1a85bab06040800000000000000
+      internalID: 4638912905060659182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_112
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2149
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ed5d25a6350be0800000000000000
+      internalID: -1511742016854301852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_113
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2150
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bbdfbbe73850030800000000000000
+      internalID: 3460316469047180104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_114
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2144
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfb8dff5875e7690800000000000000
+      internalID: -7602542887920156712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_115
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 2150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cd6738767505b40800000000000000
+      internalID: 5426933653080300549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_116
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 2149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32039922850851490800000000000000
+      internalID: -7776168065559351261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_117
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2131
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ff5853b6305740800000000000000
+      internalID: 5138667318739465976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_118
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2138
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d28e42ddd0895aa0800000000000000
+      internalID: -6171760124130065706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_119
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2070
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee5fab187e1aebb0800000000000000
+      internalID: -4906075342857347356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_120
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 2151
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3b8ffd512e9ec00800000000000000
+      internalID: 930523381608526801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_121
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 2144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bcfd14c26023b20800000000000000
+      internalID: 3112557079619947384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_122
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2143
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0141f3bb95c0fd0800000000000000
+      internalID: -2374424242779057961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_123
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2101
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252c41965771b7f90800000000000000
+      internalID: -6954939406502018478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_124
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45528d122048cee20800000000000000
+      internalID: 3381222564941014356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_125
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 2149
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d87f3fc76ee79d20800000000000000
+      internalID: 3285356582816151765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_126
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2155
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfadb812a8857120800000000000000
+      internalID: 2410983405307932616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_127
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2138
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0312c631b3d1f0470800000000000000
+      internalID: 8362935172616429872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_128
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 2148
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475bb1ae8c030bcb0800000000000000
+      internalID: -4850323159198747276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_129
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 2140
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84575a45012d358d0800000000000000
+      internalID: -2858710370868693688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_130
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2156
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2332ac0b34f77aa0800000000000000
+      internalID: -6163189030581030097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_131
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 2151
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1142990a39e20ee30800000000000000
+      internalID: 4530672436724179985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_132
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f383f59a2f9a8f300800000000000000
+      internalID: 286165436026796095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_133
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 2150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937412fcdd1cbe360800000000000000
+      internalID: 7200061587688867641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_134
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2138
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e59ccbdc8cc7770800000000000000
+      internalID: 8609977373586710046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_135
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2119
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0686906f81fdb030800000000000000
+      internalID: 3512228882521949709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_136
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2136
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2868d5a7da7bf8340800000000000000
+      internalID: 4868311677920970370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_137
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2098
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191e0bb36f60f59e0800000000000000
+      internalID: -1630576885451660911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_138
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2116
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f87beaa5cbc348c0800000000000000
+      internalID: -4016142392847795984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_139
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2141
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b8455a03b8e8e70800000000000000
+      internalID: 9119379336520305502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_140
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2141
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1354609a9e033050800000000000000
+      internalID: 5778978803856724765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_141
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2139
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfb74bdc18410340800000000000000
+      internalID: 4828219564293078991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_142
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 2138
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3991574b333822c0800000000000000
+      internalID: -4456255501590488774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_143
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 2140
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c66820ad377fb50800000000000000
+      internalID: 6626892756881402917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_144
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2135
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e608e2ecdebf60800000000000000
+      internalID: 8052116050898510846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_145
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2128
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559c7e80d660d0a20800000000000000
+      internalID: 3030085189660821845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_146
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2147
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac9161fd371ec780800000000000000
+      internalID: -8660959478576735070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_147
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2123
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7038b59bf9023950800000000000000
+      internalID: 6427210594364436607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_148
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2141
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa79d6e303d00d7c0800000000000000
+      internalID: -4048721564149114961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_149
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2138
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa088cc86accd3990800000000000000
+      internalID: -7404537196628639574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_150
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 2138
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98446bd9ac745450800000000000000
+      internalID: 6076618866201741466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_151
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2063
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189bb9978667b28d0800000000000000
+      internalID: -2870070146429634175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_152
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 2136
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aeee1bafb3887a0800000000000000
+      internalID: -6374779324629849460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_153
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2140
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8efbbee2dbd8b80800000000000000
+      internalID: -8390842521499997989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_154
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2144
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425138f910adf6e00800000000000000
+      internalID: 1040289739451864356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_155
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2141
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059546d1f8e0c060800000000000000
+      internalID: 6971828348549174543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_156
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 2146
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a7dcd8c7a815170800000000000000
+      internalID: 8165459866959051277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_157
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 2139
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd6cf45b669b530800000000000000
+      internalID: 3871238283615199229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_158
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 2139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1e67be84431a560800000000000000
+      internalID: 7323191956873863633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_159
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a9e1eb9797220b0800000000000000
+      internalID: -5754903810038392162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_160
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 2141
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3982f1d601367090800000000000000
+      internalID: -8037182579634173637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_161
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 2144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8169f620df5566230800000000000000
+      internalID: 3631684694676837912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_162
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 2141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be3ce39efc71290800000000000000
+      internalID: -7919632819020371158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_163
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2143
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb2e3e594e88530800000000000000
+      internalID: 3857584413267377914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_164
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4ab96522d85fae0800000000000000
+      internalID: -1516150520918858542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_165
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 2145
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f17625db675ad3d0800000000000000
+      internalID: -3181134066134650376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_166
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2139
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86060511f2754b730800000000000000
+      internalID: 4013929027559514216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_167
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2135
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6816869ad1c2ba430800000000000000
+      internalID: 3795175616897638790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_168
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2117
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895e599b929c24240800000000000000
+      internalID: 4774599736010597784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_169
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2131
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992eb9d373a4537d0800000000000000
+      internalID: -2939361580672097639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_170
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d3616b94d7aa100800000000000000
+      internalID: 120046095619734835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_171
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 2121
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f7751d1e5eee650800000000000000
+      internalID: 6264196889761513260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_172
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2123
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f8909d2a26c2fb0800000000000000
+      internalID: -4671250261924540621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_173
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2128
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1240be6cbde050800000000000000
+      internalID: 5831524276104207556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_174
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 2129
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00d9d5f473706f30800000000000000
+      internalID: 4566776968331776013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_175
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 2112
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876780fd2f5095330800000000000000
+      internalID: 3699995109543671416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_176
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2128
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a0e7ed288b17630800000000000000
+      internalID: 3923119622634474101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_177
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 2135
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fd7fb184c550cb0800000000000000
+      internalID: -4898407554918916249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_178
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ed47538f57ef5e0800000000000000
+      internalID: -1873930686030356837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_179
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 2122
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1277160e5fed960800000000000000
+      internalID: 7628805162868875766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_180
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a16afed316f3720800000000000000
+      internalID: 2828086009653500496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_181
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 2122
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8799d6e2b774d6c20800000000000000
+      internalID: 3201293504515774840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_182
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 2136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02050bfaf162125f0800000000000000
+      internalID: -783302942652346336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_183
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2135
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f3918ffdeac03e0800000000000000
+      internalID: -2086100250416038138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_184
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2127
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed44de9ea438d870800000000000000
+      internalID: 8707767804114521574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_185
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 2135
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae5b228af377fac0800000000000000
+      internalID: -3821458239037677917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_186
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 2133
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9f8b6bf78b302f0800000000000000
+      internalID: -1007759032934925872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_187
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1908b2f9173b28e0800000000000000
+      internalID: -1717218248325854948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_188
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 2135
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683b5194b51fbf2c0800000000000000
+      internalID: -4396655236826680442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_189
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 2134
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c89151af604ff670800000000000000
+      internalID: 8574643063728740551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_190
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 2138
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af37a533135cd1b0800000000000000
+      internalID: -5630534092150325344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_191
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 2138
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bbfaded4c1beb80800000000000000
+      internalID: -8364560761884787966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_192
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 2136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9d310c87ca1c080800000000000000
+      internalID: -9168857731731039778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_193
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 1871
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67893f3cb412c3a0800000000000000
+      internalID: -6646727301298288786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_194
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1718
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b0a1bcc4fbda60800000000000000
+      internalID: 7700017147910598790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_195
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1278
+        width: 57
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fa5b4629ce6c1f0800000000000000
+      internalID: -1024871751681200249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1462
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19835625bb4ff710800000000000000
+      internalID: 1729184023337732378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_197
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1515
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba13dcb599c08c30800000000000000
+      internalID: 4359706084249901751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_198
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1482
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb721f6f66fe5270800000000000000
+      internalID: 8241295326599871466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_199
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1447
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270cd16da13158940800000000000000
+      internalID: 5297661542653608050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_200
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1406
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa89c1ce9a32fc6b0800000000000000
+      internalID: -5273957425909819217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_201
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1377
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302208d54f5a67ac0800000000000000
+      internalID: -3857713561836969469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_202
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1355
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91935019b2fc8250800000000000000
+      internalID: 5948396084506366364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_203
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1382
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06259df2064ca4d0800000000000000
+      internalID: -3122043463016307187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_204
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1347
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af5b56ad8b3e700800000000000000
+      internalID: 568501226127620662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_205
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1343
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da16382654ede0120800000000000000
+      internalID: 2382085642512458157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_206
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1341
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4592d7773ea8f8120800000000000000
+      internalID: 2418304234488146260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_207
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1329
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28b43ea084db8790800000000000000
+      internalID: -7526688703076059093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_208
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9d4e36081ac5a90800000000000000
+      internalID: -7323801321207440945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_209
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 988
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389096a49b72aff60800000000000000
+      internalID: 8068805359158495619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_210
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 968
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619f72d50e8cc760800000000000000
+      internalID: 7479509236813107554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_211
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 179
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e1559129c247ef0800000000000000
+      internalID: -111415084775563632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_212
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 133
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09504bb4be8fd3a50800000000000000
+      internalID: 6502627126463956368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_213
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fb9fe121ebb4560800000000000000
+      internalID: 7299136606122393404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_214
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 64
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a7e1b923da0b700800000000000000
+      internalID: 554133187029006941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_215
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 62
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a64a3ca299ac810800000000000000
+      internalID: 1786408611155831314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_216
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 43
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4795e4462015cbff0800000000000000
+      internalID: -19051227701683852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_217
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 53
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e926da48cea980800000000000000
+      internalID: -8525656820819564176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_218
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4815cb0aa1e98390800000000000000
+      internalID: -7815467557866629041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_219
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddda6b64e419d4bf0800000000000000
+      internalID: -338454631603065379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_220
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 12
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387278d199221ec80800000000000000
+      internalID: -8295310997619005565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_221
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 27
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b1439e493376f0800000000000000
+      internalID: -688143308416763806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_222
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883cb785b30bfbae0800000000000000
+      internalID: -1531311579348614264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_223
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd3d8d4de37e720800000000000000
+      internalID: 2875335970991102952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_224
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6569ed7b43133640800000000000000
+      internalID: 5058408021423121774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-401764598-ink_225
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139bf73c7bede2fb0800000000000000
+      internalID: -4670550882696316623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

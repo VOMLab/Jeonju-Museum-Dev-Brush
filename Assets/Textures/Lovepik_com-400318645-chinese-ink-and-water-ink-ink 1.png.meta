@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 5a66ab1aace80ce4aa0f31e663bc890d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5380009363992440773
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_0
+  - first:
+      213: 7327651417686844548
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_1
+  - first:
+      213: -4784878055315342783
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_2
+  - first:
+      213: -7989247866238899713
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_3
+  - first:
+      213: -7503356556624163327
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_4
+  - first:
+      213: 2853636779557582924
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_5
+  - first:
+      213: 2869014027439183650
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_6
+  - first:
+      213: 6862636137752375761
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_7
+  - first:
+      213: -2712282486146686327
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_8
+  - first:
+      213: -6857261830363260472
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_9
+  - first:
+      213: 7242175863814398159
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_10
+  - first:
+      213: 3648911100370964498
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_11
+  - first:
+      213: 5705653101716641301
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_12
+  - first:
+      213: -2040978644671775542
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_13
+  - first:
+      213: 1820364511933297554
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_14
+  - first:
+      213: -5075487200348454286
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_15
+  - first:
+      213: 869826044223919798
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_16
+  - first:
+      213: 1098979476617975054
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_17
+  - first:
+      213: 4019451583837825823
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_18
+  - first:
+      213: 7357119457857894547
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_19
+  - first:
+      213: 2805635796809814168
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_20
+  - first:
+      213: -4118116244112977608
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_21
+  - first:
+      213: -1413585789108683138
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_22
+  - first:
+      213: -7644657687646244073
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_23
+  - first:
+      213: -3964625307364990425
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_24
+  - first:
+      213: -9153248175734337187
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_25
+  - first:
+      213: -587757349828657880
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_26
+  - first:
+      213: 4126129500307018324
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_27
+  - first:
+      213: 5175522450512871451
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_28
+  - first:
+      213: 5513127334040171299
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_29
+  - first:
+      213: -1881841515051146906
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_30
+  - first:
+      213: 5400691526833794837
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_31
+  - first:
+      213: -8167551534006671986
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_32
+  - first:
+      213: -8786659153793360536
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_33
+  - first:
+      213: 9152765423673064251
+    second: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 2000
+        height: 1822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3094faecfd5655b0800000000000000
+      internalID: -5380009363992440773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_1
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 109
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484ac1d042c01b560800000000000000
+      internalID: 7327651417686844548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14afd5392c2b89db0800000000000000
+      internalID: -4784878055315342783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 99
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9684ef46d702190800000000000000
+      internalID: -7989247866238899713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_4
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 125
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e815b57f8bed790800000000000000
+      internalID: -7503356556624163327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_5
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 108
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48f48328872a9720800000000000000
+      internalID: 2853636779557582924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 115
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2271029ae09c0d720800000000000000
+      internalID: 2869014027439183650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 124
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d13d7d153bfc3f50800000000000000
+      internalID: 6862636137752375761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_8
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a6baf2790c5ad0800000000000000
+      internalID: -2712282486146686327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_9
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c95a5552bc16d0a0800000000000000
+      internalID: -6857261830363260472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 126
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0a093d390618460800000000000000
+      internalID: 7242175863814398159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_11
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2105792205983a230800000000000000
+      internalID: 3648911100370964498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_12
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 114
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5161d63244d8e2f40800000000000000
+      internalID: 5705653101716641301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 99
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc3e2a7cbcfca3e0800000000000000
+      internalID: -2040978644671775542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_14
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 124
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f28ff0eb334910800000000000000
+      internalID: 1820364511933297554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_15
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 103
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2724039484f3099b0800000000000000
+      internalID: -5075487200348454286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6995ebd2e321c00800000000000000
+      internalID: 869826044223919798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_17
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 126
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e055247e20c504f00800000000000000
+      internalID: 1098979476617975054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_18
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 100
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1be8866be5f7c730800000000000000
+      internalID: 4019451583837825823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_19
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398fbbfca2db91660800000000000000
+      internalID: 7357119457857894547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_20
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 118
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89018fd64ee9fe620800000000000000
+      internalID: 2805635796809814168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_21
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 123
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83151ed381389d6c0800000000000000
+      internalID: -4118116244112977608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_22
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ef2acd63fe16ce0800000000000000
+      internalID: -1413585789108683138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_23
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 127
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f2621658b8e590800000000000000
+      internalID: -7644657687646244073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_24
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 114
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7226cf6d942daf8c0800000000000000
+      internalID: -3964625307364990425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_25
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 123
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51dc58b74129f080800000000000000
+      internalID: -9153248175734337187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_26
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d765dedcdd7d7f0800000000000000
+      internalID: -587757349828657880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_27
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 92
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525f0b5be4f24930800000000000000
+      internalID: 4126129500307018324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 99
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1001e56f3623d740800000000000000
+      internalID: 5175522450512871451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_29
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 86
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323f5fab910928c40800000000000000
+      internalID: 5513127334040171299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_30
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 94
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612bcbcc1b52e5e0800000000000000
+      internalID: -1881841515051146906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_31
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fe36e545c13fa40800000000000000
+      internalID: 5400691526833794837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 83
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85e5d2472707ae80800000000000000
+      internalID: -8167551534006671986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 84
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d56b7ad048f0680800000000000000
+      internalID: -8786659153793360536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-400318645-chinese-ink-and-water-ink-ink 1_34
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 80
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bb28ec8a7250f70800000000000000
+      internalID: 9152765423673064251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
